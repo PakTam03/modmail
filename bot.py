@@ -130,7 +130,7 @@ class Modmail(commands.Bot):
         ---------------
         Client is ready!
         ---------------
-        Author: Kyb3r#7220
+        Author: ✘ ๖̶̶̶ۣۣۜۜ͜ζ͜͡ιкнωαи ✘#2183
         ---------------
         Logged in as: {self.user}
         User ID: {self.user.id}
