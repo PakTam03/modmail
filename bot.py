@@ -155,7 +155,7 @@ class Modmail(commands.Bot):
         em = discord.Embed(color=0x00FFFF)
         em.set_author(name='Mod Mail - Help', icon_url=self.user.avatar_url)
         em.description = 'This bot is a python implementation of a stateless "Mod Mail" bot. ' \
-                         'Made by Ikhwan and improved by the suggestions of others. This bot ' \
+                         'Made by ✘ ๖̶̶̶ۣۣۜۜ͜ζ͜͡ιкнωαи ✘ and improved by the suggestions of others. This bot ' \
                          'saves no data and utilises channel topics for storage and syncing.' 
                  
 
@@ -163,8 +163,8 @@ class Modmail(commands.Bot):
                f'`{prefix}reply <message...>` - Sends a message to the current thread\'s recipient.\n' \
                f'`{prefix}close` - Closes the current thread and deletes the channel.\n' \
                f'`{prefix}disable` - Closes all threads and disables modmail for the server.\n' \
-               f'`{prefix}customstatus` - Sets the Bot status to whatever you want.' \
-               f'`{prefix}block` - Blocks a user from using modmail!' \
+               f'`{prefix}customstatus` - Sets the Bot status to whatever you want.\n' \
+               f'`{prefix}block` - Blocks a user from using modmail!\n' \
                f'`{prefix}unblock` - Unblocks a user from using modmail!'
 
         warn = 'Do not manually delete the category or channels as it will break the system. ' \
